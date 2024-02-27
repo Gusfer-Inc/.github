@@ -1,13 +1,18 @@
-# MonitCraft 🚀
+# Gusfer Inc. 🚀
 
-MonitCraft is a Minecraft plugin service for custom solutions for Minecraft servers for monetization being developed by [GustyCube](https://github.com/GustyCube).
+**Gusfer** is a development team.
+
+Working on impressive and cool projects for developers around the world 🌍
+The future is written in code, and we're contributing!
+
+# Meet our developers. 👋
+
+* [Myfer](https://github.com/myferr/) | Lead of production, Co-Owner, CLI Developer, Python Developer, Web Developer.
+* [GustyCube](https://github.com/GustyCube/) | Lead of production, Owner, main developer.
+
+# What do we do?
+
+At **Gusfer** we aim towards creating things for developers and others around the world
 
 
-
-**Plugin Development** is done by [GustyCube](https://github.com/GustyCube)
-**Web Development** is done by [Myfer](https://github.com/myferr)
-
-# To-Do 📃
-
-* Source-code for the plugin
-* Development for the website
+###### ©️ 2024, Gusfer Inc. All rights reserved
