@@ -15,4 +15,5 @@ The future is written in code, and we're contributing!
 At **Gusfer** we aim towards creating things for developers and others around the world
 
 (Discord coming soon)
+###### Founded by [Myfer](https://github.com/myferr/) and [GustyCube](https://github.com/GustyCube/)
 ###### ©️ 2024, Gusfer Inc. All rights reserved
