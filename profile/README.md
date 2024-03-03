@@ -7,7 +7,7 @@ The future is written in code, and we're contributing!
 
 # Meet our developers. 👋
 
-* [Myfer](https://github.com/myferr/) | Lead of production, Co-Owner, CLI Developer, Python Developer, Web Developer.
+* [Myfer](https://github.com/myferr/) | Lead of production, main developer, Co-Owner, CLI Developer, Python Developer, Web Developer.
 * [GustyCube](https://github.com/GustyCube/) | Lead of production, Owner, main developer, Web developer
 
 # What do we do?
